@@ -52,7 +52,7 @@ config = {
 	"guildId": guild_id
 }
 
-with open('config1.json', 'w') as outfile:
+with open('config.json', 'w') as outfile:
     outfile.write(json.dumps(config))
 
 
