@@ -1,7 +1,13 @@
 # Discord Developer Badge
 Simple way to get the discord developer badge.
 
-## Instructions
+## Automatic Instructions
+### Download Bot Files
+1. Download the files using `git clone https://github.com/darkoce8/discord-developer-badge.git`
+2. Type `cd discord-developer-badge`
+3. Type `python script.py`
+
+## Manual Instructions
 ### Download Bot Files
 1. Download the files using `git clone https://github.com/darkoce8/discord-developer-badge.git`
 2. Type `cd discord-developer-badge`
@@ -22,4 +28,3 @@ Simple way to get the discord developer badge.
 ### Running the Bot
 1. Run `node deploy-command.json`
 2. Run `node .`
-
