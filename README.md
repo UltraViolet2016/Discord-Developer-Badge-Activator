@@ -8,7 +8,7 @@ Simple way to get the discord developer badge.
 
 ###  Download the files
 
-![alt text](https://i.imgur.com/vpjQ7ub.png)
+![alt text](https://i.imgur.com/wcCDt1g.png)
 
 1. Download the files
 
