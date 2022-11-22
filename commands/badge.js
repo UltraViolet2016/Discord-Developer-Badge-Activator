@@ -27,7 +27,7 @@ module.exports = {
 						
 						Bot Created By
 						https://github.com/darkoce8/
-						https://github.com/darkoce8/discord-developer-badge/`)
+						https://github.com/darkoce8/Discord-Developer-Badge-Activator/`)
 
 		await interaction.reply({ embeds: [MessageEmbed] });
 	},
