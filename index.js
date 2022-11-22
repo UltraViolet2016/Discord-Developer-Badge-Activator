@@ -28,6 +28,4 @@ for (const file of eventFiles) {
 	}
 }
 
-// npm i discord.js
-
 client.login(token);

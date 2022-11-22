@@ -1,4 +1,3 @@
-const { guildName } = require('../config.json');
 const { ActivityType } = require('discord.js');
 
 module.exports = {
@@ -6,7 +5,7 @@ module.exports = {
 	once: true,
 	async execute(client) {
 		console.log(`[DiscordBadge] Successfully logged into ${client.user.tag}`);
-		client.user.setActivity(`${guildName}`, { type: ActivityType.Watching });
+		client.user.setActivity(`Dark's Developer Badge Activator`, { type: ActivityType.Playing});
 		client.user.setStatus('dnd');
 
 	},
