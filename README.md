@@ -21,7 +21,9 @@ Simple way to get the discord developer badge.
 1. Double click `Dark's Discord Badge Activator.exe`
 
 3. Follow instructions
+
 OR
+
 4. Make sure you have python installed (https://www.python.org/downloads/)
 
 5. Double click `script.py`
